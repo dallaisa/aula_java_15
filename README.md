@@ -17,7 +17,8 @@ Um projeto de formulário gráfico desenvolvido em **Java Swing**, com layout mo
 
 <img src="screenshot.png" alt="Formulário em Java Swing" width="500"/>
 
-> *Imagem meramente ilustrativa. Use uma captura real se desejar.*
+<img width="487" height="434" alt="image" src="https://github.com/user-attachments/assets/fabbfb77-efbf-4c64-b67c-48455f8cb223" />
+
 
 ## 🛠️ Tecnologias utilizadas
 
